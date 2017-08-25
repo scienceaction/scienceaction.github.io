@@ -3,7 +3,7 @@ build/
 obj/
 *.o
 Debug*/
-Release*/
+## Release*/
 *.mode*
 *.app/
 *.pyc
