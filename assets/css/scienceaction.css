@@ -15,6 +15,10 @@
   margin-top:80px;
 }
 @media (max-width: 768px) {
+  .masthead {
+	padding-top:100px;
+	padding-bottom:100px;
+  }
   .masthead .brand-heading img {
 	margin-top:0;
   }
