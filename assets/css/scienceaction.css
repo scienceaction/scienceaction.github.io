@@ -143,6 +143,11 @@ article .mastimage img {
 	font-size:1.75rem;
 }
 
+
+p.credit small {
+	color:#aaa;
+}
+
 /* nav 
 ul.sidenav {
   list-style: none;
