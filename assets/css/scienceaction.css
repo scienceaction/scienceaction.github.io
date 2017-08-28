@@ -134,8 +134,14 @@ article .mastimage img {
 
 .to_top_page {
   margin-top:5rem;
+  margin-bottom:5rem;
 }
 
+
+
+.page article .featurette-heading {
+	font-size:1.75rem;
+}
 
 /* nav 
 ul.sidenav {
@@ -257,7 +263,9 @@ table.release-detail th {
 .artist .artist-sns {
 	margin:-1.2rem 0 0.4rem ;
 }
-
+.artist .artist-sns a {
+	margin-right:7px;
+}
 
 
 
