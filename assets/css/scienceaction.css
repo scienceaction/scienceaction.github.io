@@ -9,11 +9,15 @@
 }
 
 
-
 /* Intro Header -------- */
 .masthead .brand-heading img {
   width:90%;
   margin-top:80px;
+}
+@media (max-width: 768px) {
+  .masthead .brand-heading img {
+	margin-top:0;
+  }
 }
 
 
@@ -185,6 +189,11 @@ ul.sidenav li span {
   /*display: inline-block;*/
   background-color:#42dca3;
   font-size:4rem;
+}
+@media (max-width: 768px) {
+	.artistmast .title span {
+		font-size:2.5rem;
+	}
 }
 .artistmast .title span{
   /*display: inline-block;*/
