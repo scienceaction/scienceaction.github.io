@@ -13,12 +13,7 @@
 		})
 	};
 	
-	
-	
-	
 	// --
 	fnResizeMedia();
 	$(window).resize(fnResizeMedia);
-
-	
 })(jQuery);
